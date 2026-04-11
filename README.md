@@ -233,3 +233,4 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | [BountyRaffle](https://github.com/iiitl/BountyRaffle) | Kaustubh | Solidity, Foundry |
 | [decentralized-uptime-monitoring](https://github.com/iiitl/decentralized-uptime-monitoring) | Raj | Go, PostgreSQL, RabbitMQ |
 | [CTNFT](https://github.com/iiitl/CTNFT) | Aryan Singh | Next.js, TypeScript, Solidity |
+| [HeartSync](https://github.com/iiitl/HeartSync) | Kaustubh Goge | Solidity, Hardhat, Node.js |
