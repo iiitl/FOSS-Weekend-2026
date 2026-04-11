@@ -167,7 +167,6 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | [AlgoJudge](https://github.com/iiitl/AlgoJudge) | Aryan Singh | Rust, Docker |
 | [Opensource_Compass](https://github.com/iiitl/Opensource_Compass) | Vedant Kulkarni | Next.js, Go, Docker |
 | [Breach Battle](https://github.com/iiitl/breach-battle) | Aaryan Dadu | Next.js, TypeScript |
-| [CargoCut](https://github.com/iiitl/CargoCut) | Sidharth Singh | Rust, PostgreSQL, Redis |
 | [StonkSchool](https://github.com/iiitl/StonkSchool) | Sidharth Singh | Next.js, TypeScript |
 | [yt-music-tauri](https://github.com/iiitl/yt-music-tauri) | ThunderBlaze | Tauri, Rust, JavaScript |
 | [NewTab-Overdrive](https://github.com/iiitl/NewTab-Overdrive) | ThunderBlaze | Next.js, TypeScript, MongoDB |
@@ -186,7 +185,6 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | :-- | :-- | :-- |
 | [OxiDock](https://github.com/iiitl/OxiDock) | Sidharth Singh | Tauri, Rust, React |
 | [PerOXO](https://github.com/iiitl/PerOXO) | Sidharth Singh | Rust, RabbitMQ |
-| [Shadowlock](https://github.com/iiitl/Shadowlock) | Sidharth Singh | Rust |
 | [ScreenExtractor](https://github.com/iiitl/ScreenExtractor) | Gaurav Ghodinde | Go, Python, Next.js |
 | [warp](https://github.com/iiitl/warp) | Gaurav Ghodinde | Go |
 | [chuck](https://github.com/iiitl/chuck) | Aaryan Dadu | Python, C++ |
