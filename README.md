@@ -176,6 +176,7 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | [MissionSakhi](https://github.com/iiitl/MissionSakhi) | Arham | React, Firebase, Node.js, MongoDB |
 | [Chat-App](https://github.com/iiitl/Chat-App) | Shreyansh | Go, Redis |
 | [Crate](https://github.com/iiitl/Crate) | Vaidik | React, Node.js, MongoDB |
+| [ProdditPublic](https://github.com/iiitl/ProdditPublic) | Divyanshu | React, Node.js |
 
 ---
 
