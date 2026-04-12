@@ -233,3 +233,4 @@ To understand how we score you, please refer to our detailed rulebook: [Rulebook
 | [decentralized-uptime-monitoring](https://github.com/iiitl/decentralized-uptime-monitoring) | Raj | Go, PostgreSQL, RabbitMQ |
 | [CTNFT](https://github.com/iiitl/CTNFT) | Aryan Singh | Next.js, TypeScript, Solidity |
 | [HeartSync](https://github.com/iiitl/HeartSync) | Kaustubh Goge | Solidity, Hardhat, Node.js |
+| [Event_Dapp](https://github.com/iiitl/Event_Dapp) | Sumanth V U | Solidity, Ether Js, Hardhat, React |
